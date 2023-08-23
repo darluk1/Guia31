@@ -1,0 +1,24 @@
+departamento, cabecera, habitantes, altura, moneda, codigo_telefónico, idiomas, oficial, autóctono, segundo_idioma, area_territorial, alcalde{
+    display: block;
+}
+
+pais {
+    background-color: rgb(248, 255, 227);
+}
+
+departamento {
+    background-color: rgba(137, 216, 117, 0.397);
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+departamento{
+    font-family: sans-serif;
+    font-size:larger;
+    font-style: italic;
+    color: black;
+}
+
+idiomas{
+    color: rgba(165, 42, 42, 0.801);
+}

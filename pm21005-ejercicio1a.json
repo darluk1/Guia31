@@ -1,0 +1,26 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"15/3/2015",
+				"nombre":"Maria",
+				"apellido":"Gomez",
+				"direccion":"Avenida de las Flores, 67",
+				"contacto":{
+					"telefono":{
+						"@tipo":"celular",
+						"#text":"+503 7892-1425"
+					},
+					"email":"maria@yahoo.com",
+					"website":"http://www.mariagomez.com"
+				}
+			}
+		]}
+}
